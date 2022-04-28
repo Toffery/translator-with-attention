@@ -1,1 +1,1 @@
-# translator-with-attention
+# Basic translator using Attention
